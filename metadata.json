@@ -1,0 +1,6 @@
+{
+  "name": "ONE WORLD: Film & Syndicate Engine",
+  "description": "Widescreen 2.5D cinematic crime-drama engine set across Lagos, all 36 Nigerian states + FCT, and global hubs with 3-protagonist switching, Surulere living quarters, Black Stallion sponsor gantries, and fictional aviation flight simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
